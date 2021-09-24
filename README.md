@@ -38,7 +38,7 @@ fuera o en relación con el software o el uso u otros negocios en el
 software.
 
 ### Lenguajes:
-<img src="" width="20px" /> HTML 
+<img src="https://github.com/gabrielamoldes/Modelo/blob/main/html.png" width="20px" /> HTML 
 
 ### Herramientas de Desarrollo:
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="20px" /> Visual Studio / VS Code
