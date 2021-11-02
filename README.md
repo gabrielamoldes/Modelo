@@ -45,5 +45,7 @@ software.
 ### Herramientas de Desarrollo:
 - <img src="https://github.com/gabrielamoldes/Modelo/blob/main/visual-studio-code.png" width="30px" /> Visual Studio / VS Code
 - <img src="https://github.com/gabrielamoldes/Modelo/blob/main/github.png" width="30px" /> Git / GitHub
+- <img src="https://github.com/gabrielamoldes/Modelo/blob/main/react.png" width="30px" /> React 
+- <img src="https://github.com/gabrielamoldes/Modelo/blob/main/Formik.png" width="30px" /> Formik 
 
 
